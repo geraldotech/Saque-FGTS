@@ -1,11 +1,15 @@
+$blue: rgb(63, 15, 235);
+$ml: 5px;
 .bk {
     background-color: rgb(238, 238, 238);
 }
 .fa-arrow-circle-right{
-    color:green;
+    color:  rgb(12, 141, 0);
+
 }
 .fa-calendar {
-    color: rgb(51, 115, 235);
+    color: $blue;
+    margin-left: $ml;
 }
 .blog-footer {
   padding: 2.5rem 0;
@@ -31,12 +35,4 @@ select{
     align-items: center !important;
     height: 20vh !important;
     width: 100% !important;
-}
-
-.myfooter{
-    text-align: center;
-}
-
-ul li {
-    
 }

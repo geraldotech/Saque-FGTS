@@ -3,11 +3,12 @@
 }
 
 .fa-arrow-circle-right {
-  color: green;
+  color: #0c8d00;
 }
 
 .fa-calendar {
-  color: #3373eb;
+  color: #3f0feb;
+  margin-left: 5px;
 }
 
 .blog-footer {
@@ -42,9 +43,5 @@ select {
           align-items: center !important;
   height: 20vh !important;
   width: 100% !important;
-}
-
-.myfooter {
-  text-align: center;
 }
 /*# sourceMappingURL=style.css.map */
