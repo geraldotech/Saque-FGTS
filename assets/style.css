@@ -1,0 +1,50 @@
+.bk {
+  background-color: #eeeeee;
+}
+
+.fa-arrow-circle-right {
+  color: green;
+}
+
+.fa-calendar {
+  color: #3373eb;
+}
+
+.blog-footer {
+  padding: 2.5rem 0;
+  color: white;
+  text-align: center;
+  background-color: dodgerblue;
+  border-top: .05rem solid #e5e5e5;
+}
+
+.blog-footer a {
+  color: black;
+}
+
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
+
+select {
+  width: 200px !important;
+}
+
+.mymenu {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-pack: center !important;
+      -ms-flex-pack: center !important;
+          justify-content: center !important;
+  -webkit-box-align: center !important;
+      -ms-flex-align: center !important;
+          align-items: center !important;
+  height: 20vh !important;
+  width: 100% !important;
+}
+
+.myfooter {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */

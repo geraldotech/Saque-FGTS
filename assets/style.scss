@@ -1,0 +1,42 @@
+.bk {
+    background-color: rgb(238, 238, 238);
+}
+.fa-arrow-circle-right{
+    color:green;
+}
+.fa-calendar {
+    color: rgb(51, 115, 235);
+}
+.blog-footer {
+  padding: 2.5rem 0;
+  color: white;
+  text-align: center;
+  background-color: dodgerblue;
+  border-top: .05rem solid #e5e5e5;
+}
+.blog-footer a {
+    color: black;
+}
+.blog-footer p:last-child {
+  margin-bottom: 0;
+}
+
+select{
+    width: 200px !important;
+}
+
+.mymenu { 
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 20vh !important;
+    width: 100% !important;
+}
+
+.myfooter{
+    text-align: center;
+}
+
+ul li {
+    
+}
